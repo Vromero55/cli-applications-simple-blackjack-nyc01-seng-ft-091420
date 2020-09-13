@@ -1,3 +1,4 @@
+require 'pry'
 def welcome
   message="Welcome to the Blackjack Table"
   puts message
