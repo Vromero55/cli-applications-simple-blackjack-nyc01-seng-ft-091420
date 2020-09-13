@@ -1,5 +1,4 @@
-def welcome(message)
-message = "Welcome to the Blackjack Table"
+def welcome(message="Welcome to the Blackjack Table")
   puts message
 end
 
