@@ -17,7 +17,7 @@ def prompt_user
 end
 
 def get_user_input
-  users_input=nil
+  
   puts users_input.gets
 
 end
