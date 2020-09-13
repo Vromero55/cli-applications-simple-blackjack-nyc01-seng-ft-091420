@@ -3,7 +3,7 @@ def welcome
   puts message
 end
 
-def deal_card(card)
+def deal_card
   card=rand(1...11)
   puts card
   # code #deal_card here
