@@ -1,8 +1,6 @@
 def welcome(message)
 message = "Welcome to the Blackjack Table"
   puts message
-
-  # code #welcome here
 end
 
 def deal_card
