@@ -16,8 +16,7 @@ def prompt_user
   puts "Type 'h' to hit or 's' to stay"
 end
 
-def get_user_input(users_input)
-  binding.pry
+def get_user_input
   users_input=users_input.gets.chomp
 
   # code #get_user_input here
