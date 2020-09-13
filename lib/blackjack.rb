@@ -4,6 +4,7 @@ def welcome
 end
 
 def deal_card
+  random=11
   random.rand(11)
   # code #deal_card here
 end
