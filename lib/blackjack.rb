@@ -18,7 +18,7 @@ end
 
 def get_user_input(users_input)
   binding.pry
-  puts users_input.gets
+  
 
 end
 
