@@ -18,7 +18,7 @@ end
 
 def get_user_input(users_input)
   users_input=users_input.gets
-  puts users_input/chomp
+  puts users_input.chomp
 end
 
 def end_game
