@@ -3,8 +3,9 @@ def welcome
   puts message
 end
 
-def deal_card
-  puts rand(1) * 11.to_i
+def deal_card(card)
+  card=rand(1) * 11.to_i
+  puts card
   # code #deal_card here
 end
 
