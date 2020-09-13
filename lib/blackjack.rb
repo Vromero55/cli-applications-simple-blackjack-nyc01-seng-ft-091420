@@ -17,6 +17,7 @@ def prompt_user
 end
 
 def get_user_input(users_input)
+  binding.pry
   users_input=users_input.gets.chomp
 
   # code #get_user_input here
